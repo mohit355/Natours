@@ -18,5 +18,6 @@
   "homepage": "https://github.com/mohit355/Natours#readme",
   "devDependencies": {
     "node-sass": "^5.0.0"
-  }
+  },
+  "dependencies": {}
 }
