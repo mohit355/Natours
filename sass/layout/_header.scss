@@ -10,6 +10,7 @@
   background-position: top; /* when decrease the size image will not cut from top*/
 
   /* background clipping */
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
   clip-path: polygon(
     0 0,
     100% 0,
